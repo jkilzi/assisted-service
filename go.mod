@@ -68,7 +68,7 @@ require (
 	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
 	golang.org/x/tools v0.1.5 // indirect
 	gopkg.in/gormigrate.v1 v1.6.0
-	gopkg.in/ini.v1 v1.51.0
+	gopkg.in/ini.v1 v1.66.3
 	gopkg.in/square/go-jose.v2 v2.3.1
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.21.1
